@@ -35,7 +35,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              DrugStore
+              MethStore
             </h1>
             <span className="ml-2 text-sm text-muted-foreground">CornyBoiz Online Pharmacy</span>
           </div>

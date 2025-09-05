@@ -12,9 +12,9 @@ const Header = () => {
             <div className="flex items-center gap-6">
               <span className="flex items-center gap-1">
                 <Phone size={14} />
-                24/7 Support: +1-800-PHARMACY
+                24/7 Support: +63-939-PHARMACY
               </span>
-              <span>Free Delivery on Orders $50+</span>
+              <span>Free Delivery on Orders 50+PHP</span>
             </div>
             <div className="flex items-center gap-4">
               <Button variant="ghost" size="sm" className="text-white hover:bg-white/20">
@@ -37,7 +37,7 @@ const Header = () => {
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               MediStore
             </h1>
-            <span className="ml-2 text-sm text-muted-foreground">Trusted Online Pharmacy</span>
+            <span className="ml-2 text-sm text-muted-foreground">CornyBoiz Online Pharmacy</span>
           </div>
 
           {/* Search */}

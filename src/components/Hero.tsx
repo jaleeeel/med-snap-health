@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="space-y-6">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-5xl font-bold leading-tight">
-                Your Trusted
+                CornyBoiz
                 <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent block">
                   Online Pharmacy
                 </span>

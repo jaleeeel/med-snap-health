@@ -86,7 +86,7 @@ const Footer = () => {
 
         {/* Bottom bar */}
         <div className="border-t mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
-          <p>&copy; 2024 MediStore. All rights reserved.</p>
+          <p>&copy; 2025 MethStore. All rights reserved.</p>
           <div className="flex items-center gap-4 mt-4 md:mt-0">
             <span>Licensed Pharmacy License #123456</span>
             <span>|</span>

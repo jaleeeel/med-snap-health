@@ -131,10 +131,10 @@ const FeaturedProducts = () => {
                 </div>
 
                 <div className="flex items-center gap-2 mb-3">
-                  <span className="font-bold text-primary">${product.price}</span>
+                  <span className="font-bold text-primary">₱{product.price}</span>
                   {product.originalPrice && (
                     <span className="text-xs text-muted-foreground line-through">
-                      ${product.originalPrice}
+                      ₱{product.originalPrice}
                     </span>
                   )}
                 </div>

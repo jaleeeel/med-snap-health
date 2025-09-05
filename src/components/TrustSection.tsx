@@ -45,7 +45,7 @@ const TrustSection = () => {
     <section className="py-16 bg-gradient-to-br from-primary/5 to-secondary/5">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold mb-4">Why Choose MediStore?</h2>
+          <h2 className="text-3xl font-bold mb-4">Why Choose MethStore?</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Your health is our priority. We're committed to providing safe, genuine, and affordable healthcare solutions.
           </p>

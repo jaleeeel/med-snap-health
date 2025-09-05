@@ -11,7 +11,7 @@ const trustFeatures = [
   {
     icon: Truck,
     title: "Fast & Free Delivery",
-    description: "Free delivery on orders above $50, express delivery available",
+    description: "Free delivery on orders above ₱50, express delivery available",
     color: "secondary"
   },
   {

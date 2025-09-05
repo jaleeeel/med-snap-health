@@ -10,10 +10,10 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <h3 className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              MediStore
+              MethStore
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Your trusted online pharmacy providing genuine medicines and healthcare products 
+              CornyBoiz online pharmacy providing genuine medicines and healthcare products 
               with the convenience of home delivery.
             </p>
             <div className="flex space-x-4">
@@ -62,15 +62,15 @@ const Footer = () => {
             <div className="space-y-3 text-sm">
               <div className="flex items-center gap-2 text-muted-foreground">
                 <Phone size={16} />
-                <span>+1-800-PHARMACY</span>
+                <span>+63-939-PHARMACY</span>
               </div>
               <div className="flex items-center gap-2 text-muted-foreground">
                 <Mail size={16} />
-                <span>support@medistore.com</span>
+                <span>support@methstore.com</span>
               </div>
               <div className="flex items-center gap-2 text-muted-foreground">
                 <MapPin size={16} />
-                <span>123 Healthcare St, Medical City</span>
+                <span>Atbang ila Dr.Chicano, John Bosco District, Mangagoy, Bislig City, Surigao del Sur</span>
               </div>
             </div>
             
